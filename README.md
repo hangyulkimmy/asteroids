@@ -1,6 +1,6 @@
 # Asteroids
 
-**[▶ Play in browser](https://hangyulkimmy.github.io/asteroids/)**
+**[Play in browser](https://hangyulkimmy.github.io/asteroids/)**
 
 An Asteroids clone: fly, shoot, dodge, survive.
 
